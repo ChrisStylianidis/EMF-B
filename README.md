@@ -15,7 +15,6 @@ Welcome to the repository for the "Electromagnetic Fields B" course offered duri
 - Solutions to past papers
 
 **Note that many of the solutions to the past papers have been cross checked with the Professor**
-
 Please feel free to explore and use these resources to enhance your understanding of electromagnetic fields.
 
 ## Contact
