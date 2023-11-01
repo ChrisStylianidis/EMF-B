@@ -20,4 +20,4 @@ Please feel free to explore and use these resources to enhance your understandin
 
 ## Contact
 
-If you have questions or need further information about any of my solutions, please feel free to contact me.
+If you have questions or need further information about any of my solutions, please feel free to contact me!
